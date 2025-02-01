@@ -6,7 +6,6 @@ At **Netcompany-Intrasoft**, I work on designing and implementing **robust backe
 
 With a strong **problem-solving mindset** and a **detail-oriented approach**, I continuously seek to enhance **system performance and streamline processes**. I am always eager to **learn new technologies** and stay ahead in the ever-evolving software landscape.
 
----
 
 ## **💻 Tech Stack:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
